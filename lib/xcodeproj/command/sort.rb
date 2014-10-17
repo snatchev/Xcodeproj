@@ -2,7 +2,7 @@ module Xcodeproj
   class Command
     class Sort < Command
       def self.banner
-        %(Sorts the give project
+        %(Sorts the given project
 
             $ sort [PROJECT]
 
